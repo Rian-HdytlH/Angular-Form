@@ -1,5 +1,5 @@
 <h1 align="center">Angular Form</h1>
-<div>
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="80px">
 </div>
 
