@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/npm/v/loaders.css.svg?style=flat-square">
   <img src="https://img.shields.io/bower/v/loaders.css.svg?style=flat-square">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="40px">
 </p>
 
 
