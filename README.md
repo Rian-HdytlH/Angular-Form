@@ -1,4 +1,4 @@
-<h1 align="center">Loaders.css</h1>
+<h1 align="center">Angular Form</h1>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/loaders.css.svg?style=flat-square">
