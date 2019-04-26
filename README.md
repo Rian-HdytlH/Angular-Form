@@ -9,13 +9,6 @@
   <img src="https://img.shields.io/bower/v/loaders.css.svg?style=flat-square">
 </p>
 
-[![GitHub forks](https://img.shields.io/github/forks/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/network)
-[![Github Dependencies](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)
-[![GitHub stars](https://img.shields.io/github/stars/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE)
-[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://angular-shoppingcart.firebaseapp.com/)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ikismail/Angular-ShoppingCart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fikismail%2FAngular-ShoppingCart)
 
 
 # Angular-Form
